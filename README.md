@@ -18,6 +18,6 @@ En lo personal esto me trajo mucha motivacion y empece a armar las ideas que men
 
 pd: en la siguiente imagen podemos ver a varios participantes del grupo jugando Space War y Content Warning
 
-![SpaceWar](./assets/SpaceWar.png)
+![SpaceWar](./assets/SpaceWar.jpeg)
 
 https://youtu.be/qCTbf3L3hpY
