@@ -8,7 +8,7 @@ Los proyectos realizados en las distintas materias son muestra de las ganas y el
 Al transcurrir el 2023 y compartir con compañeros proyectos, logramos armar un lindo grupo al cual llamamos The Big Six (el cual ya cuenta con dos prototipos en el portfolio de sus integrantes).
 En lo personal esto me trajo mucha motivacion y empece a armar las ideas que mencione anteriormente.
 
-![Logo UNAHUR](./assets/TheBigSix.png)
+![TheBigSix](./assets/TheBigSix.png)
 
 ## Datos de vital importancia para la trama
 * Suelo dedicar varias horas al dia a la pc (ya sea para jugar, youtube o intentar entrar unity)
@@ -18,6 +18,6 @@ En lo personal esto me trajo mucha motivacion y empece a armar las ideas que men
 
 pd: en la siguiente imagen podemos ver a varios participantes del grupo jugando Space War y Content Warning
 
-![Logo UNAHUR](./assets/SpaceWar.png)
+![SpaceWar](./assets/SpaceWar.png)
 
 https://youtu.be/qCTbf3L3hpY
