@@ -2,14 +2,19 @@
 
 # Chamorro Ignacio
 Buenas, mi nombre es Ignacio, tengo 29 años, vivo en la ciudad de Rosario y me gusta pensar en hacer jueguitos.
+
 Tengo un par de ideas en el bloc de notas, varios proyectos empezados que nunca terminare 
 pero le pongo onda (inserte emoji de manito arriba).
+
 Entre a la carrera con la esperanza de poder llevar escritos que tenia a la vida a traves de los videojuegos 
 pero el game design y la programacion me corrieron el foco.
+
 Los proyectos realizados en las distintas materias son muestra de las ganas y el tiempo que le dedico a los 
 juegos cuando de verdad me atraviezan, y mas si los compañeros acompañan :D
+
 Al transcurrir el 2023 y compartir con compañeros proyectos, logramos armar un lindo grupo al cual llamamos The Big Six 
 (el cual ya cuenta con dos prototipos en el portfolio de sus integrantes).
+
 En lo personal esto me trajo mucha motivacion y empece a armar las ideas que mencione anteriormente.
 
 ![TheBigSix](./assets/TheBigSix.png)
