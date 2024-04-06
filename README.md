@@ -3,7 +3,7 @@
 # Chamorro Ignacio
 Buenas, mi nombre es Ignacio, tengo 29 años, vivo en la ciudad de Rosario y me gusta pensar en hacer jueguitos.
 Tengo un par de ideas en el bloc de notas, varios proyectos empezados que nunca terminare 
-pero le pongo onda (inserte emoji de manito arriba)
+pero le pongo onda (inserte emoji de manito arriba).
 Entre a la carrera con la esperanza de poder llevar escritos que tenia a la vida a traves de los videojuegos 
 pero el game design y la programacion me corrieron el foco.
 Los proyectos realizados en las distintas materias son muestra de las ganas y el tiempo que le dedico a los 
