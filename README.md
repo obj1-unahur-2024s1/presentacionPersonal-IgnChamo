@@ -20,4 +20,4 @@ pd: en la siguiente imagen podemos ver a varios participantes del grupo jugando 
 
 ![SpaceWar](./assets/SpaceWar.jpeg)
 
-https://youtu.be/qCTbf3L3hpY
+[![](https://markdown-videos.deta.dev/youtube/qCTbf3L3hpY)](https://youtu.be/qCTbf3L3hpY)
